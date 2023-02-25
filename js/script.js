@@ -106,7 +106,7 @@ $(function() {
             $tips.html('↓↓↓ 复制下面的链接，教伸手党使用洛谷');
             $('#output').fadeIn();
             //$urlOutput.val(window.location.origin + window.location.pathname + '?q=' + Base64.encode(question)).focus().select();
-            $urlOutput.val('http://luogu.george-jiang.ga/' + '?q=' + Base64.encode(question)).focus().select();
+            $urlOutput.val('http://help.oiso.cf/' + '?q=' + Base64.encode(question)).focus().select();
         }
         return false;
     });

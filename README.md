@@ -2,7 +2,7 @@
 
 在洛谷遇到伸手党？使用本项目！
 
-原版本来自xyxywan/baidu（MIT开源）
+原版本来自xyxywan/baidu（MIT开源协议）
 
 ---
 

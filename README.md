@@ -1,3 +1,11 @@
+# 让我帮你洛谷一下
+
+在洛谷遇到伸手党？使用本项目！
+
+原版本来自xyxywan/baidu（MIT开源）
+
+---
+
 <p align="center">
 <a href="http://tool.mkblog.cn/lmbtfy/" target="_blank">
 <img src="https://user-images.githubusercontent.com/16880885/85271234-1998af00-b4ad-11ea-8fd9-2c1cabf62ea3.png" alt="让我帮你百度一下">

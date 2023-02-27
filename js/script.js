@@ -128,3 +128,8 @@ $(function() {
         }
     });
 });
+
+// 如果url地址中有 ?q=xxx 参数，则 cursor:none;
+if (window.location.href.indexOf('?q=') > -1) {
+    document.body.style.cursor = 'none';
+}
